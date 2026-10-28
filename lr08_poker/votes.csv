@@ -38,3 +38,9 @@ S-16,1,pessimistic,?
 S-16,2,optimistic,8
 S-16,2,likely,13
 S-16,2,pessimistic,21
+S-17,1,optimistic,5
+S-17,1,likely,8
+S-17,1,pessimistic,13
+S-18,1,optimistic,3
+S-18,1,likely,5
+S-18,1,pessimistic,8
