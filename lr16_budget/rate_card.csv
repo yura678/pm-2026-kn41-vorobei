@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.5,240,460,https://jobs.dou.ua/salaries/,"Проєктний менеджмент і комунікації за медіаною Middle PM DOU (літо 2026, Україна): ставка 0.81 від Middle Dev без виділеного BA"
+Dev,2.0,960,570,https://jobs.dou.ua/salaries/,"Два Middle-розробники по 100% зайнятості об'єднані в один рядок ролі за правилом прайсу: базова медіана Middle Software Developer DOU (літо 2026)"
+QA,1.0,480,425,https://jobs.dou.ua/salaries/,"Інженер із якості та автотестування грейду Middle QA (DOU літо 2026, Україна): медіанна компенсація становить 0.75 від ставки Middle Dev"
+DevOps,0.25,120,620,https://jobs.dou.ua/salaries/,"Часткове залучення Middle DevOps/SRE (10 год/тиждень): за оглядом DOU (літо 2026, Україна) медіана на 9% вища за ставку Middle Dev"
